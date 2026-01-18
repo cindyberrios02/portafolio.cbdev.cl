@@ -1,4 +1,4 @@
-export default function App() {
+export default function HolaMundo() {
   return (
     <div className="min-h-screen bg-black flex items-center justify-center p-4">
       <div className="max-w-2xl w-full">
@@ -25,7 +25,7 @@ export default function App() {
         </div>
         
         <div className="mt-4 text-gray-600 text-sm font-mono text-center">
-          React v18 • Build successful
+          React v19 • Build successful
         </div>
       </div>
     </div>
