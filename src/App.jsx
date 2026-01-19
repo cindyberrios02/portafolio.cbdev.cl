@@ -16,7 +16,7 @@ export default function HolaMundo() {
           </div>
           
           <div className="mt-4 text-2xl font-mono text-white">
-            &gt; Hola Mundo
+            &gt; Hola Mundo, soy Cindy
           </div>
           
           <div className="mt-8 flex items-center">
