@@ -1,0 +1,6 @@
+/* Import existing styles */
+@import url('/assets/css/style.css');
+@import url('/assets/colors/color-4.css');
+
+/* Import Font Awesome */
+@import url('@fortawesome/fontawesome-free/css/all.min.css');
