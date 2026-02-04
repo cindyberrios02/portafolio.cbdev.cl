@@ -21,7 +21,7 @@ function Testimonials() {
         {
             id: 3,
             name: 'Luis Ramírez',
-            position: 'Apps Dev Programmer Analyst - Citi',
+            position: 'Apps Dev Programmer Analyst - Citi Bank',
             image: '/assets/img/luis.jpg',
             relation: 'Trabajaron juntos en proyectos',
             text: 'Cindy es una profesional destacada por su proactividad y habilidad para encontrar soluciones creativas a los desafíos. Su enfoque colaborativo y su disposición para ayudar e intercambiar ideas enriquecen cualquier equipo del que forme parte.'
